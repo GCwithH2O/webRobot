@@ -1,0 +1,12 @@
+[production]
+> 1%
+not dead
+not op_mini all
+ie 8
+[development]
+chrome 40
+firefox 40
+ie 8
+safari 10
+edge 15
+
